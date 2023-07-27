@@ -1,2 +1,2 @@
 # JKI-ATM
-This repo is to develop an ATM controller with JKI++ methond.
+This repo is to develop an ATM controller with JKI++ method.
