@@ -8,5 +8,6 @@
 	<Item Name="Private Controls" Type="Folder"/>
 	<Item Name="Private VIs" Type="Folder"/>
 	<Item Name="Public Controls" Type="Folder"/>
-	<Item Name="Error Handler Top Level_JKI.vi" Type="VI" URL="../../Error Handler Top Level_JKI.vi"/>
+	<Item Name="ErrortoString.vi" Type="VI" URL="../../ErrortoString.vi"/>
+	<Item Name="JKI_ErrorHandler.vi" Type="VI" URL="../../JKI_ErrorHandler.vi"/>
 </Library>
