@@ -23,7 +23,9 @@
 			<Item Name="Modules" Type="Folder">
 				<Item Name="Config DataBase" Type="Folder"/>
 				<Item Name="Controller" Type="Folder"/>
-				<Item Name="Display" Type="Folder"/>
+				<Item Name="Display" Type="Folder">
+					<Item Name="Display_JKI.lvlib" Type="Library" URL="../Modules/Display/Display Console/Display_JKI.lvlib"/>
+				</Item>
 				<Item Name="Error Handler" Type="Folder">
 					<Item Name="Error Handler_JKI.lvlib" Type="Library" URL="../Modules/Error Handler/APIs/Error Handler_JKI.lvlib"/>
 				</Item>
