@@ -24,7 +24,9 @@
 				<Item Name="Config DataBase" Type="Folder">
 					<Item Name="Database.lvlib" Type="Library" URL="../Modules/Config DataBase/Database.lvlib"/>
 				</Item>
-				<Item Name="Controller" Type="Folder"/>
+				<Item Name="Controller" Type="Folder">
+					<Item Name="Controller_JKI.lvlib" Type="Library" URL="../Modules/Controller/Controller_JKI.lvlib"/>
+				</Item>
 				<Item Name="Display" Type="Folder">
 					<Item Name="Display_JKI.lvlib" Type="Library" URL="../Modules/Display/Display Console/Display_JKI.lvlib"/>
 				</Item>
