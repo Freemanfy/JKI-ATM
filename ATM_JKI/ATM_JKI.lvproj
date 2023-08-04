@@ -34,7 +34,9 @@
 				<Item Name="Sensor" Type="Folder">
 					<Item Name="Sensor_JKI.lvlib" Type="Library" URL="../Modules/Sensor/Sensor_JKI.lvlib"/>
 				</Item>
-				<Item Name="Simulated Console (UI)" Type="Folder"/>
+				<Item Name="Simulated Console (UI)" Type="Folder">
+					<Item Name="UI Console_JKI.lvlib" Type="Library" URL="../Modules/Simulated Console (UI)/UI Console_JKI.lvlib"/>
+				</Item>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
