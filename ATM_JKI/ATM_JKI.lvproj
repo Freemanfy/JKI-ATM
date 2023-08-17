@@ -42,7 +42,6 @@
 			</Item>
 			<Item Name="TopLevel.vi" Type="VI" URL="../Modules/Display/Display Console/TopLevel.vi"/>
 		</Item>
-		<Item Name="Transaction.ctl" Type="VI" URL="../Modules/Controller/Transaction.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="JKI State Machine ++ Slave Mode Template.vi" Type="VI" URL="/&lt;userlib&gt;/_NEVSTOP/JKI State Machine ++/Templates/JKI State Machine ++ Slave Mode Template.vi"/>
